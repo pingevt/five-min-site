@@ -1,0 +1,11 @@
+show tag
+drush en bluecadet_media_fields
+drush pmu bluecadet_media_fields
+drush cex
+
+.. run importer
+.. show spreadsheet
+
+drush cr
+
+drush cim to clear
