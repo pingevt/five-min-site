@@ -5,7 +5,7 @@ footer: Pete Inge | Bluecadet | 5 min sites
 
 # Five Minute Drupal Site
 
-## Speading up our Drupal Dev Time
+## Speeding up our Drupal Dev Time
 
 ^ * Be the Story Teller
 * Breathe
@@ -539,5 +539,13 @@ Drupal's BE is just a layer on top of code. Some Examples:
 
 ![right](media/bc_workspace.jpg)
 ![left](media/bluecadet-nasm-website.jpg)
+
+---
+
+https://docs.google.com/spreadsheets/d/1ZOgZY0s2l6OX6F_wlPHzgxcy_pkOQtfJO_DxaFpjQ3Y/edit#gid=1268104449
+
+https://github.com/bluecadet/bc_aicc
+
+https://github.com/pingevt/five-min-site
 
 ---
